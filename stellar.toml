@@ -1,0 +1,12 @@
+[DOCUMENTATION]
+
+ORG_URL="sshovu16.github.io"
+
+
+[[CURRENCIES]]
+code="Biplob"
+issuer="GBLANRA7KLHYTPT6TFGBK5POX7BCNE2NBIOYESQMXWROONUCOPUFJ6P7"
+display_decimals=7
+name="Phoenix Born"
+desc="Jean Grey of the X-Men. aka The Phoenix. Oil painting on canvas, and animated digitally. "
+image="https://ipfs.io/ipfs/QmW7TqAccf6U5Yfs7gwHgNtkqPTE4M4zELHMfhkhTdZAxb"
